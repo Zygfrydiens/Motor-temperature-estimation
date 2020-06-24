@@ -20,6 +20,7 @@
     - Building the model
     - Model evaluation
     - Application of moving average
+    - Saving the model
     - Conclusion
 
         
